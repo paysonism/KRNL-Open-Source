@@ -1,0 +1,50 @@
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\krnlss.exe.config
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\krnlss.pdb
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\FastColoredTextBox.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\Siticone.UI.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\sxlib.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\bin\Debug\sxlib.xml
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.csproj.AssemblyReference.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\Sexploit_Y.About.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\Sexploit_Y.krnlss.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.Properties.Resources.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\Sexploit_Y.ScriptHub.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.csproj.GenerateResource.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.csproj.CoreCompileInputs.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.csproj.CopyComplete
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\krnlss\krnlss\obj\Debug\krnlss.pdb
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\bin\Debug\krnlss.exe.config
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\bin\Debug\krnlss.exe
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\bin\Debug\krnlss.pdb
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\bin\Debug\sxlib.xml
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.csproj.AssemblyReference.cache
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.csproj.SuggestedBindingRedirects.cache
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\Sexploit_Y.About.resources
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\Sexploit_Y.krnlss.resources
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.Options.resources
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.Properties.Resources.resources
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\Sexploit_Y.ScriptHub.resources
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.csproj.GenerateResource.cache
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.csproj.CoreCompileInputs.cache
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.csproj.CopyComplete
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.exe
+C:\Users\Payson\Desktop\Hacks\Synapse X\DEV\krnlss\SRC\KRNL-UI\krnlss\obj\Debug\krnlss.pdb
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.csproj.AssemblyReference.cache
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\Sexploit_Y.About.resources
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\Sexploit_Y.krnlss.resources
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.Options.resources
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.Properties.Resources.resources
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\Sexploit_Y.ScriptHub.resources
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.csproj.GenerateResource.cache
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.csproj.CoreCompileInputs.cache
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.exe
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.pdb
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\bin\Debug\krnlss.exe.config
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\bin\Debug\krnlss.exe
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\bin\Debug\krnlss.pdb
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\bin\Debug\SubZeroAPI.dll
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\bin\Debug\sxlib.xml
+I:\1Projects\custom src\krnl rebrand open source nigger shit\krnlss\obj\Debug\krnlss.csproj.CopyComplete

@@ -1,0 +1,36 @@
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.exe.config
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\FastColoredTextBox.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\sxlib.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.AssemblyReference.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.About.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.krnlss.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.Properties.Resources.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.ScriptHub.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.GenerateResource.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.CoreCompileInputs.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.CopyComplete
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.pdb
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.xml
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.pdb
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\SexploitNotepadStyle-main\SexploitNotepadStyle-main\Sexploit Y\Sexploit Y\bin\x86\Debug\sxlib.xml
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.exe.config
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.xml
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\krnlss.pdb
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\FastColoredTextBox.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\Siticone.UI.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\sxlib.dll
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\sxlib.xml
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.AssemblyReference.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.About.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.krnlss.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.Properties.Resources.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\Sexploit_Y.ScriptHub.resources
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.GenerateResource.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.CoreCompileInputs.cache
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.csproj.CopyComplete
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.exe
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\obj\x86\Debug\krnlss.pdb
+C:\Users\P-Denny Gaming\Desktop\Synapse X\Themes\UI\Made By Me\KRNL UI\CUSTOM\MAIN - v1.0.2\v1.0.2\Sexploit Y\Sexploit Y\bin\x86\Debug\Bunifu_UI_v1.52.dll
