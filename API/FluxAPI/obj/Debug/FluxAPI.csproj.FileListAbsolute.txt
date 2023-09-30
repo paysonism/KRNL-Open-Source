@@ -1,0 +1,7 @@
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\bin\Debug\SubZeroAPI.dll
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\bin\Debug\SubZeroAPI.pdb
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\obj\Debug\FluxAPI.csproj.AssemblyReference.cache
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\obj\Debug\FluxAPI.csproj.CoreCompileInputs.cache
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\obj\Debug\FluxAPI.csproj.Fody.CopyLocal.cache
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\obj\Debug\SubZeroAPI.dll
+I:\1Projects\SubZero ROBLOX\API\v1\FluxAPI\obj\Debug\SubZeroAPI.pdb
